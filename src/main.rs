@@ -1,6 +1,7 @@
 mod db;
 mod handlers;
 mod routes;
+mod users;
 
 use dotenvy::dotenv;
 use std::env;
